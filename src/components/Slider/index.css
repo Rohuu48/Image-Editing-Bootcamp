@@ -1,0 +1,17 @@
+.slider-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    margin: auto;
+    color: white;
+}
+
+.caption{
+    padding: 20px 0;
+}
+
+.heading{
+    color:red
+}

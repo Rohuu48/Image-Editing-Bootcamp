@@ -1,0 +1,13 @@
+.score-tasks-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.score-tasks-container h1{
+    text-align: center;
+    font-family: cursive;
+    font-size: 40px;
+    color: rgb(190, 27, 27);
+}

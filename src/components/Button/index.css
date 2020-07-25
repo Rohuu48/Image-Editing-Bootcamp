@@ -1,0 +1,38 @@
+.floating-button{
+    position: fixed;
+    right:0;
+    bottom: 0;
+}
+
+.button-alignment{
+    display: flex;
+    flex-direction: column;
+    height: 150px;
+    justify-content: space-evenly;
+}
+
+.button{
+    display: flex;
+    background-color: #7796d4;
+    border-radius: 15px;
+    width: 120px;
+    color:white;
+    margin:0px 0px 8px 8px;
+    border: none;
+    padding: 15px;
+    font-family: inherit;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+a{
+    text-decoration: none;
+    color:white
+}
+
+.button-primary{
+    background-color: rgb(67, 103, 204,0.8);
+    width: auto;
+    padding: 10px;
+    border-radius: 10px;
+}
